@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "738368691492",
+    "project_id": "fruitsoda-199cc",
+    "storage_bucket": "fruitsoda-199cc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738368691492:android:dc0375c6576440d614e7b1",
+        "android_client_info": {
+          "package_name": "com.example.fruit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNoa-H7BwyIzvwAXHPN9fHPLK3itctRJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
