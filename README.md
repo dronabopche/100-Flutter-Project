@@ -1,8 +1,7 @@
 # 🚀 100 Flutter Projects
 
 <p align="center">
-  <!-- Replace the image path below with your actual repository image -->
-  <img src="./Recources/FLUTTER.png" alt="Flutter Projects Banner" width="100%" />
+  <img src="https://github.com/dronabopche/100-Flutter-Project/blob/main/Resources/FLUTTER.png" alt="Flutter Projects Banner" width="100%" />
 </p>
 
 <p align="center">
